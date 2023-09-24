@@ -3,6 +3,7 @@ body {
     font-size: 90%;
     color:#485B40 ;
     background-image: url(3.png);
+    background-repeat:no-repeat;
    
     
 }
